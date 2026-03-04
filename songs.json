@@ -1,11 +1,11 @@
 [
   {
-    "id": "song1",
-    "title": "Song One",
-    "url": "https://raw.githubusercontent.com/ibraheem3981/lil_a/main/music/song1.mp3"
+    "id": "1",
+    "title": "YOUNG GUYS",
+    "url": "https://raw.githubusercontent.com/ibraheem3981/lil_a/refs/heads/main/LIL-A-YONG-GUYS.MP3"
   },
   {
-    "id": "song2",
+    "id": "2",
     "title": "Song Two",
     "url": "https://raw.githubusercontent.com/ibraheem3981/lil_a/main/music/song2.mp3"
   }
